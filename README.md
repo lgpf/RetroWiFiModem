@@ -2,7 +2,7 @@
 
 ## An ESP8266 based RS232 \<-\> WiFi modem with Hayes AT style commands and LED indicators
 
-![Front Panel](images/Front-Panel.jpg "Front Panel")
+![Front Panel](images/MiniCourierFront.jpg "Front Panel")
 
 This project is a small set of tweaks and updates to
 [mecparts' RetroWiFiModem](https://github.com/mecparts/RetroWiFiModem) to
