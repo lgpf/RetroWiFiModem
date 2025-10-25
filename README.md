@@ -8,17 +8,18 @@
 
 I will keep entire text from Ben readme below as it is the same.
 Few changes were introduced.
-1. Added sound back (a merge from original code fropm mecparts into Ben's code)
+1. Added sound back (a merge from original code from mecparts into Ben's code)
 2. Changed the original kicad to create a new compact board that can be used with 2 differente cases.
 3. A second kicad version to use MAX3232 instead MAX3237
 
 Reason behind those changes are:
-1. I was looking for something that had telnet, PPP and sound. Ben made a fork and introduced the PPP before the Sound functionality implemented in the original project. So I just did a merge to bring it back.
-2. Using original project I changed the pcb to be suitable to custom ideas, adding headers, option for amp, pots, differnt power inputs.
-3. I am a nightmare with smd .. so I tried to do something with dip instead, replacing all smd in the project. This one is a simple project for use in just one case. It also intrioduced the problem original project was facing with garbage while initializing the esp8266
+1. I was looking for something that had telnet, PPP and sound. Ben made a fork and introduced the PPP before the Sound functionality was implemented in the original project. So I just did a merge to bring it back.
+2. Using original project, I changed the pcb to be suitable to custom ideas, adding headers, option for amp, external speaker, pots, different power inputs, power switch, serial header, ...
+3. I am a nightmare with smd .. so I tried to do something with dip instead to make it easy for anyone, replacing all smd in the project. This one is a simple project for use in just one case (Mini Courier). It also introduced back the original problem project was facing with garbage while initializing the esp8266 (MAX3237 has enable gate, MAX3232 doesn't)
 
-Cases I made for this project at Thingverse.
+Cases I made for this project are available at Thingverse.
 Mini Courier Modem - https://www.thingiverse.com/thing:7182022
+or
 Retro External Momdem - https://www.thingiverse.com/thing:7182050 
 
 Btw .. MAX3232. There is a lot of fakes out there. I tried eBay, AliExpress and some local market. All in the garbage bin.
