@@ -21,6 +21,9 @@ Cases I made for this project at Thingverse.
 Mini Courier Modem - https://www.thingiverse.com/thing:7182022
 Retro External Momdem - https://www.thingiverse.com/thing:7182050 
 
+Btw .. MAX3232. There is a lot of fakes out there. I tried eBay, AliExpress and some local market. All in the garbage bin.
+If you want build your modem. Doesn't matter if MAX3237 or MAX3232 .. buy it from mouser or farnell.
+
 ## Original Instructions
    
 This project is a small set of tweaks and updates to
