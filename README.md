@@ -18,9 +18,8 @@ Reason behind those changes are:
 3. I am a nightmare with smd .. so I tried to do something with dip instead to make it easy for anyone, replacing all smd in the project. This one is a simple project for use in just one case (Mini Courier). It also introduced back the original problem project was facing with garbage while initializing the esp8266 (MAX3237 has enable gate, MAX3232 doesn't)
 
 Cases I made for this project are available at Thingverse.
-Mini Courier Modem - https://www.thingiverse.com/thing:7182022
-or
-Retro External Momdem - https://www.thingiverse.com/thing:7182050 
+1. Mini Courier Modem - https://www.thingiverse.com/thing:7182022
+2. Retro External Modem - https://www.thingiverse.com/thing:7182050 
 
 Btw .. MAX3232. There is a lot of fakes out there. I tried eBay, AliExpress and some local market. All in the garbage bin.
 If you want build your modem. Doesn't matter if MAX3237 or MAX3232 .. buy it from mouser or farnell.
